@@ -39,7 +39,7 @@
 
 14. EDGE network architecture
 
-15. Factors of change in economics of wireless technology [2]
+[15. Factors of change in economics of wireless technology [2]](questions_answers/economics-of_wireless_Communication.md)
 
 16. GPRS architecture, Authentication and Encryption [2]
 
