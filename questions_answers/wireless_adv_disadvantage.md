@@ -5,11 +5,11 @@
 
 * **Ease of Use :**  Main advantage of a wireless network over a wired one is that users can move around freely within the area of the network with their laptops, handheld devices etc and get an internet connection.
 
-* **Adding new device is easy : ** Not having to lay lots of cables and put them through walls etc. can be a considerable advantage in terms of time and expense. It also makes it easier to add extra devices to the network, as no new cabling is needed.
+* **Adding new device is easy :** Not having to lay lots of cables and put them through walls etc. can be a considerable advantage in terms of time and expense. It also makes it easier to add extra devices to the network, as no new cabling is needed.
 
-* ** Maintenance ** and installation is less cost for these networks.
+* **Maintenance** and installation is less cost for these networks.
 
-* ** Scalability ** Expanding a wired network can be costly and difficult with adding new cables and rerouting the existing ones. But expansion with wireless is pretty easy. A new user can be added by issuing a password and updating it in the server.
+* **Scalability** Expanding a wired network can be costly and difficult with adding new cables and rerouting the existing ones. But expansion with wireless is pretty easy. A new user can be added by issuing a password and updating it in the server.
 
 
 
