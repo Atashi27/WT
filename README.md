@@ -11,7 +11,7 @@
 #### Explain in detail
 
 
-1.  Advantages and Disadvantages of wireless communication
+[1.  Advantages and Disadvantages of wireless communication](questions_answers/wireless_adv_disadvantage.md )
 
 2. CDMA,TDMA,FDMA
 
