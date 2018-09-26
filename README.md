@@ -1,6 +1,6 @@
-University Questions Consolidated 
+# University Questions Consolidated 
 
-Subject : Wireless Technology
+## Subject : Wireless Technology
 
 Problems 
     • Problems based on the Cell, Channels and Coverage areas. [4]
@@ -54,4 +54,13 @@ Write Short Note on
 Compare 
     • WiMax and LTE/2GPP
     • CSMA 2000 and W-CDMA
+
+### Fundamentals of Wireless Communication
+- DSSS And FHSS with examples
+- Multiple Access Technique: OFDMA, OFDM
+- Explain in detail: CDMA,TDMA,FDMA
+- Advantages and Disadvantages of wireless Communication
+- Radio Frequency Spectrum 
+
+
 
