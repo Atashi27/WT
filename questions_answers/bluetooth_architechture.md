@@ -1,7 +1,9 @@
 ### Bluetooth Architecture
 The protocol architecture of Bluetooth is given below:
-![Bluetooth Architecture](./images/bluetooth-architecture.png?raw=true "Bluetooth Architecture").
-*Bluetooth Architecture*
+
+![Bluetooth Architecture](../images/bluetooth-architecture.png "Bluetooth Architecture").
+
+*Fig 1. Bluetooth Architecture*
 
 * The radio layer is responsible for:
     *  Modulation/Demodulation of data for transmitting (OR) receiving over air.
